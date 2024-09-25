@@ -7,8 +7,9 @@ Aqui, o objetivo é classificar quais clientes serão churn, utilizando modelos 
 * Scikit-Learn.
 
 ## Análise Exploratória:
-1. Não há dados nulos, nem duplicados.
+1. Não há dados outliers, nem duplicados.
 2. Há muitos dados nulos, e eles precisarão ser tratados de formas diferentes.
+3. É necessário normalizar.
 
 ## Tratamento dos Dados:
 1. Substituímos os dado nulos numéricos po 0.
