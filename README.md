@@ -28,5 +28,3 @@ Aqui, o objetivo é classificar quais clientes serão churn, utilizando modelos 
 * Os modelos perfomaram de forma muito discrepante nos treinos e tetes.
 * O Random Forest mostrou desempenho um pouco melhor, mas mesmo depois do Tunning continuou performando mal.
 * Infelizmente, os dados tinham uma distribuição muito desigual, o que prejudicou o desemprenho do modelo. E, potanto, ele se mostrou obsoleto.
-
-**PRÓXIMO PASSO: REAMOSTRAR OS DADOS DE TREINO PARA BALANCEAR OS DADOS E TENTAR MELHORAR AS MÉTRICAS**
