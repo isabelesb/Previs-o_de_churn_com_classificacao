@@ -1,6 +1,6 @@
 # Previsão de Churn com Classificação
 
-Aqui, o objetivo é prever quais clientes poodem cancelar o serviço de streamming, utilizando modelos de classificação. 
+Aqui, o objetivo é prever quais clientes poodem cancelar um serviço de streamming, utilizando modelos de classificação. Analisaremos os dados de consumo dos usuários para a previsão.
 
 ## Bibliotecas:
 * Pandas.
